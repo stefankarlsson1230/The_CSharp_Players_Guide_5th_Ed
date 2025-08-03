@@ -97,7 +97,9 @@ The solutions are divided into the separate repos linked below.
 - More Flexible params
 - System.Threading.Lock
 
-- [Project 8: Henge Explorer](#)
-- [Project 9: Networked Chat Console](#)
-- [Project 10: Game Modding System](#)
+## [Some final projects](#)
+
+- Project 8: Henge Explorer
+- Project 9: Networked Chat Console
+- Project 10: Game Modding System
 
