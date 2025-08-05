@@ -3,7 +3,7 @@
 This is the index page of my solutions for the books assignments, and a bunch of extra projects created by ChatGPT.
 The solutions are divided into the separate repos linked below.
 
-## [Part 1: The Basics](#)
+## [Part 1: The Basics](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_1_The_Basics)
 - Chapter 1: The C# Programming Language
 - Chapter 2: Getting an IDE
 - Chapter 3: Hello World
@@ -17,10 +17,10 @@ The solutions are divided into the separate repos linked below.
 - Chapter 11: Looping
 - Chapter 12: Arrays
 - Chapter 13: Methods
-- [Project 1: Character Sheet Builder](#)
+- [Project 1: Character Sheet Builder](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 14: Memory Management
 
-## [Part 2: Object Oriented Programming](#)
+## [Part 2: Object Oriented Programming](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_2_OOP)
 - Chapter 15: Input Parameters
 - Chapter 16: Output Parameters
 - Chapter 17: Tuples
@@ -40,25 +40,25 @@ The solutions are divided into the separate repos linked below.
 - Chapter 31: Fountain of Objects
 - Chapter 32: Useful Types
 
-## [Part 3: Advanced Topics](#)
+## [Part 3: Advanced Topics](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_3_Advanced_Topics)
 - Chapter 33: Managing Larger Programs
-- [Project 2: Dungeon Map Renderer](#)
+- [Project 2: Dungeon Map Renderer](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 34: Methods Revisited
 - Chapter 35: Error Handling
 - Chapter 36: Delegates
-- [Project 3: Battle Simulator](#)
+- [Project 3: Battle Simulator](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 37: Events
 - Chapter 38: Lambdas
 - Chapter 39: Files
-- [Project 4: Personal Finance Tracker](#)
+- [Project 4: Personal Finance Tracker](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 40: Pattern Matching
 - Chapter 41: Operator Overloading
-- [Project 5: RPG Quest Engine](#)
+- [Project 5: RPG Quest Engine](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 42: Query Expressions (LINQ)
-- [Project 6: Inventory Manager with Search](#)
+- [Project 6: Inventory Manager with Search](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 43: Threads
 - Chapter 44: Advanced Threading Tools
-- [Project 7: Recipe Recommendation System](#)
+- [Project 7: Recipe Recommendation System](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 45: Tasks
 - Chapter 46: async and await
 - Chapter 47: Structs vs Classes (Deep Dive)
@@ -68,18 +68,18 @@ The solutions are divided into the separate repos linked below.
 - Chapter 51: Attributes
  
 
-## [Part 4: The Endgame](#)
+## [Part 4: The Endgame](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_4_The_Endgame)
 - Chapter 52: Reflection
 - Chapter 53: Source Generators
 
-## [C# 11 Expansion](#)
+## [C# 11 Expansion](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_11_Expansion)
 - Required Members
 - Raw String Literals
 - List Patterns
 - Span Pattern Matching
 - UTF-8 String Literals
   
-## [C# 12 Expansion](#)
+## [C# 12 Expansion](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_12_Expansion)
 - .NET 8 Projects
 - Collection Expressions
 - Primary Constructors
@@ -87,7 +87,7 @@ The solutions are divided into the separate repos linked below.
 - Read-Only Reference Parameters
 - Optional Parameters in Lambdas
 
-## [C# 13 Expansion](#)
+## [C# 13 Expansion](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_13_Expansion)
 - .NET 9 Projects
 - The Escape Character (\e)
 - Challenge: The Six Staffs of Elegedd
@@ -97,7 +97,7 @@ The solutions are divided into the separate repos linked below.
 - More Flexible params
 - System.Threading.Lock
 
-## [Some final projects](#)
+## [Some final projects](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 
 - Project 8: Henge Explorer
 - Project 9: Networked Chat Console
