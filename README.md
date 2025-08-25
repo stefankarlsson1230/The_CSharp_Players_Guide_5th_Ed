@@ -25,7 +25,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 16: Enumerations
 - [x] Chapter 17: Tuples
 - [x] Chapter 18: Classes
-- Chapter 19: Information Hiding
+- [x] Chapter 19: Information Hiding
 - Chapter 20: Properties
 - Chapter 21: Static
 - Chapter 22: Null References
