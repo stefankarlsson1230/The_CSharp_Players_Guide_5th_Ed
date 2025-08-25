@@ -4,27 +4,27 @@ This is the index page of my solutions for the books assignments, and a bunch of
 The solutions are divided into the separate repos linked below.
 
 ## [Part 1: The Basics](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_1_The_Basics)
-- Chapter 1: The C# Programming Language
-- Chapter 2: Getting an IDE
-- Chapter 3: Hello World
-- Chapter 4: Comments
-- Chapter 5: Variables
-- Chapter 6: The C# Type System
-- Chapter 7: Math
-- Chapter 8: Console 2.0
-- Chapter 9: Decision Making (if/else)
-- Chapter 10: Switches
-- Chapter 11: Looping
-- Chapter 12: Arrays
-- Chapter 13: Methods
-- [Project 1: Character Sheet Builder](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
-- Chapter 14: Memory Management
+- [x] Chapter 1: The C# Programming Language
+- [x] Chapter 2: Getting an IDE
+- [x] Chapter 3: Hello World
+- [x] Chapter 4: Comments
+- [x] Chapter 5: Variables
+- [x] Chapter 6: The C# Type System
+- [x] Chapter 7: Math
+- [x] Chapter 8: Console 2.0
+- [x] Chapter 9: Decision Making (if/else)
+- [x] Chapter 10: Switches
+- [x] Chapter 11: Looping
+- [x] Chapter 12: Arrays
+- [x] Chapter 13: Methods
+- [x] [Project 1: Character Sheet Builder](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
+- [x] Chapter 14: Memory Management
 
 ## [Part 2: Object Oriented Programming](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_2_OOP)
-- Chapter 15: Input Parameters
-- Chapter 16: Output Parameters
-- Chapter 17: Tuples
-- Chapter 18: Classes
+- [x] Chapter 15: Input Parameters
+- [x] Chapter 16: Output Parameters
+- [x] Chapter 17: Tuples
+- [x] Chapter 18: Classes
 - Chapter 19: Fields
 - Chapter 20: Properties
 - Chapter 21: The Catacombs of the Class
