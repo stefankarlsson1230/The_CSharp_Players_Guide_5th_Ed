@@ -27,7 +27,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 18: Classes
 - [x] Chapter 19: Information Hiding
 - [x] Chapter 20: Properties
-- Chapter 21: Static
+- [x] Chapter 21: Static
 - Chapter 22: Null References
 - Chapter 23: Object-Oriented Design
 - Chapter 24: The Catacomb of the Class
