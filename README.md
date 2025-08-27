@@ -28,7 +28,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 19: Information Hiding
 - [x] Chapter 20: Properties
 - [x] Chapter 21: Static
-- Chapter 22: Null References
+- [x} Chapter 22: Null References
 - Chapter 23: Object-Oriented Design
 - Chapter 24: The Catacomb of the Class
 - Chapter 25: Inheritance
@@ -97,7 +97,7 @@ The solutions are divided into the separate repos linked below.
 - More Flexible params
 - System.Threading.Lock
 
-## [Some final projects](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
+## [Some final Projects](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 
 - Project 8: Henge Explorer
 - Project 9: Networked Chat Console
