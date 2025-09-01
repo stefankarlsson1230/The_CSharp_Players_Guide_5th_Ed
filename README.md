@@ -30,7 +30,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 21: Static
 - [x] Chapter 22: Null References
 - [x] Chapter 23: Object-Oriented Design
-- Chapter 24: The Catacomb of the Class
+- [x] Chapter 24: The Catacomb of the Class
 - Chapter 25: Inheritance
 - Chapter 26: Polymorphism
 - Chapter 27: Interfaces
