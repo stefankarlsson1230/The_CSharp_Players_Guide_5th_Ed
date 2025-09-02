@@ -31,7 +31,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 22: Null References
 - [x] Chapter 23: Object-Oriented Design
 - [x] Chapter 24: The Catacomb of the Class
-- Chapter 25: Inheritance
+- [x] Chapter 25: Inheritance
 - Chapter 26: Polymorphism
 - Chapter 27: Interfaces
 - Chapter 28: Structs
