@@ -34,7 +34,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 25: Inheritance
 - [x] Chapter 26: Polymorphism
 - [x] Chapter 27: Interfaces
-- Chapter 28: Structs
+- [x] Chapter 28: Structs
 - Chapter 29: Records
 - Chapter 30: Generics
 - Chapter 31: The Fountain of Objects
