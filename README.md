@@ -33,7 +33,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 24: The Catacomb of the Class
 - [x] Chapter 25: Inheritance
 - [x] Chapter 26: Polymorphism
-- Chapter 27: Interfaces
+- [x] Chapter 27: Interfaces
 - Chapter 28: Structs
 - Chapter 29: Records
 - Chapter 30: Generics
