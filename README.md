@@ -36,7 +36,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 27: Interfaces
 - [x] Chapter 28: Structs
 - [x] Chapter 29: Records
-- Chapter 30: Generics
+- [x] Chapter 30: Generics
 - Chapter 31: The Fountain of Objects
 - Chapter 32: Some Useful Types
 
