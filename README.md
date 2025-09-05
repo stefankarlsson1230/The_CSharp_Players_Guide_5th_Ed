@@ -90,7 +90,7 @@ The solutions are divided into the separate repos linked below.
 - More Flexible params
 - System.Threading.Lock
 
-## [Some final Projects from chatGPT](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
+## [Projects from chatGPT](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - [x] Project 1: Character Sheet Builder
 - Project 2: Dungeon Map Renderer
 - Project 3: Battle Simulator
