@@ -17,7 +17,6 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 11: Looping
 - [x] Chapter 12: Arrays
 - [x] Chapter 13: Methods
-- [x] [Project 1: Character Sheet Builder](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - [x] Chapter 14: Memory Management
 
 ## [Part 2: Object Oriented Programming](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_2_OOP)
@@ -42,23 +41,17 @@ The solutions are divided into the separate repos linked below.
 
 ## [Part 3: Advanced Topics](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_3_Advanced_Topics)
 - Chapter 33: Managing Larger Programs
-- [Project 2: Dungeon Map Renderer](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 34: Methods Revisited
 - Chapter 35: Error Handling and Exceptions
 - Chapter 36: Delegates
-- [Project 3: Battle Simulator](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 37: Events
 - Chapter 38: Lambda Expression
 - Chapter 39: Files
-- [Project 4: Personal Finance Tracker](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 40: Pattern Matching
 - Chapter 41: Operator Overloading
-- [Project 5: RPG Quest Engine](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 42: Query Expressions
-- [Project 6: Inventory Manager with Search](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 43: Threads
 - Chapter 44: Asynchronous Programming
-- [Project 7: Recipe Recommendation System](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
 - Chapter 45: Dynamic Objects
 - Chapter 46: Unsafe Code
 - Chapter 47: Other Language Features
@@ -97,8 +90,14 @@ The solutions are divided into the separate repos linked below.
 - More Flexible params
 - System.Threading.Lock
 
-## [Some final Projects](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
-
+## [Some final Projects from chatGPT](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
+- [x] Project 1: Character Sheet Builder
+- Project 2: Dungeon Map Renderer
+- Project 3: Battle Simulator
+- Project 4: Personal Finance Tracker
+- Project 5: RPG Quest Engine
+- Project 6: Inventory Manager with Search
+- Project 7: Recipe Recommendation System
 - Project 8: Henge Explorer
 - Project 9: Networked Chat Console
 - Project 10: Game Modding System
