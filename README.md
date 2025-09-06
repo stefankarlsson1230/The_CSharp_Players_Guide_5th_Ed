@@ -36,7 +36,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 28: Structs
 - [x] Chapter 29: Records
 - [x] Chapter 30: Generics
-- Chapter 31: The Fountain of Objects
+- [x] Chapter 31: The Fountain of Objects
 - Chapter 32: Some Useful Types
 
 ## [Part 3: Advanced Topics](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_3_Advanced_Topics)
