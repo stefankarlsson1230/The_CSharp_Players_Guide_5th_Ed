@@ -43,7 +43,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 33: Managing Larger Programs
 - [x] Chapter 34: Methods Revisited
 - [x] Chapter 35: Error Handling and Exceptions
-- Chapter 36: Delegates
+- [x] Chapter 36: Delegates
 - Chapter 37: Events
 - Chapter 38: Lambda Expression
 - Chapter 39: Files
