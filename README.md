@@ -42,7 +42,7 @@ The solutions are divided into the separate repos linked below.
 ## [Part 3: Advanced Topics](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_3_Advanced_Topics)
 - [x] Chapter 33: Managing Larger Programs
 - [x] Chapter 34: Methods Revisited
-- Chapter 35: Error Handling and Exceptions
+- [x] Chapter 35: Error Handling and Exceptions
 - Chapter 36: Delegates
 - Chapter 37: Events
 - Chapter 38: Lambda Expression
