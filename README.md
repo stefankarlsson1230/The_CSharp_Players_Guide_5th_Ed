@@ -45,7 +45,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 35: Error Handling and Exceptions
 - [x] Chapter 36: Delegates
 - [x] Chapter 37: Events
-- Chapter 38: Lambda Expression
+- [x] Chapter 38: Lambda Expression
 - Chapter 39: Files
 - Chapter 40: Pattern Matching
 - Chapter 41: Operator Overloading
