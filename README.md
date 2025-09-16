@@ -47,7 +47,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 37: Events
 - [x] Chapter 38: Lambda Expression
 - [x] Chapter 39: Files
-- Chapter 40: Pattern Matching
+- [x] Chapter 40: Pattern Matching
 - Chapter 41: Operator Overloading
 - Chapter 42: Query Expressions
 - Chapter 43: Threads
