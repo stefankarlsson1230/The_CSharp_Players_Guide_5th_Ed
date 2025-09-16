@@ -46,7 +46,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 36: Delegates
 - [x] Chapter 37: Events
 - [x] Chapter 38: Lambda Expression
-- Chapter 39: Files
+- [x] Chapter 39: Files
 - Chapter 40: Pattern Matching
 - Chapter 41: Operator Overloading
 - Chapter 42: Query Expressions
