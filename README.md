@@ -48,7 +48,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 38: Lambda Expression
 - [x] Chapter 39: Files
 - [x] Chapter 40: Pattern Matching
-- Chapter 41: Operator Overloading
+- [x] Chapter 41: Operator Overloading
 - Chapter 42: Query Expressions
 - Chapter 43: Threads
 - Chapter 44: Asynchronous Programming
@@ -59,7 +59,6 @@ The solutions are divided into the separate repos linked below.
 - Chapter 49: Compiling in Depth
 - Chapter 50: .NET
 - Chapter 51: Publishing
- 
 
 ## [Part 4: The Endgame](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_4_The_Endgame)
 - Chapter 52: The Final Battle
