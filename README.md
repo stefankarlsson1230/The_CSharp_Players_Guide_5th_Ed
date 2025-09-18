@@ -50,7 +50,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 40: Pattern Matching
 - [x] Chapter 41: Operator Overloading
 - [x] Chapter 42: Query Expressions
-- Chapter 43: Threads
+- [x] Chapter 43: Threads
 - Chapter 44: Asynchronous Programming
 - Chapter 45: Dynamic Objects
 - Chapter 46: Unsafe Code
