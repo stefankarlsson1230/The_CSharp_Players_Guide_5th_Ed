@@ -53,7 +53,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 43: Threads
 - [x] Chapter 44: Asynchronous Programming
 - [x] Chapter 45: Dynamic Objects
-- Chapter 46: Unsafe Code
+- [x] Chapter 46: Unsafe Code
 - Chapter 47: Other Language Features
 - Chapter 48: Beyond a Single Projects
 - Chapter 49: Compiling in Depth
