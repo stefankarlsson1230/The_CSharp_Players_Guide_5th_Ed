@@ -56,7 +56,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 46: Unsafe Code
 - [x] Chapter 47: Other Language Features
 - [x] Chapter 48: Beyond a Single Projects
-- Chapter 49: Compiling in Depth
+- [x] Chapter 49: Compiling in Depth
 - Chapter 50: .NET
 - Chapter 51: Publishing
 
