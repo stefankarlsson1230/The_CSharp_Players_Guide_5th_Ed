@@ -57,7 +57,7 @@ The solutions are divided into the separate repos linked below.
 - [x] Chapter 47: Other Language Features
 - [x] Chapter 48: Beyond a Single Projects
 - [x] Chapter 49: Compiling in Depth
-- Chapter 50: .NET
+- [x] Chapter 50: .NET
 - Chapter 51: Publishing
 
 ## [Part 4: The Endgame](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_4_The_Endgame)
