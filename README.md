@@ -1,6 +1,6 @@
 # The C# Player's Guide (5th Ed.)
 
-This is the index page of my solutions for the books assignments, and a bunch of extra projects created by ChatGPT.
+This is the index page of my solutions for the books assignments, and some small projects created by ChatGPT.
 The solutions are divided into the separate repos linked below.
 
 ## [Part 1: The Basics](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_1_The_Basics)
@@ -88,16 +88,4 @@ The solutions are divided into the separate repos linked below.
 - Challenge: The Henges of Elegedd
 - More Flexible params
 - System.Threading.Lock
-
-## [Projects from chatGPT](https://github.com/stefankarlsson1230/The_CSharp_Players_Guide_Extra_Projects)
-- [x] Project 1: Character Sheet Builder
-- Project 2: Dungeon Map Renderer
-- Project 3: Battle Simulator
-- Project 4: Personal Finance Tracker
-- Project 5: RPG Quest Engine
-- Project 6: Inventory Manager with Search
-- Project 7: Recipe Recommendation System
-- Project 8: Henge Explorer
-- Project 9: Networked Chat Console
-- Project 10: Game Modding System
 
